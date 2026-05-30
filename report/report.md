@@ -1,7 +1,7 @@
 # Ensemble-Based EVGS Scoring and Gait Subtype Classification for Pediatric Gait Analysis
 
 **Sardor Razikov**  
-Independent Researcher, Tashkent, Uzbekistan  
+Independent Researcher  
 razikovsardor1@gmail.com  
 github.com/SRKRZ23/cvpr-gait-2026
 
